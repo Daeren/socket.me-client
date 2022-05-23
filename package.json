@@ -1,0 +1,33 @@
+{
+  "name": "socket.me-client",
+  "version": "0.0.1",
+  "description": "",
+
+  "author": {
+    "name": "Daeren",
+    "email": "x@db.gg"
+  },
+  "homepage": "https://666.io",
+
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Daeren/socket.me-client.git"
+  },
+
+  "scripts": {
+  },
+
+  "keywords": [
+    "websocket",
+    "socket",
+    "games",
+    "politic-free"
+  ],
+  "license": "MIT",
+
+  "dependencies": {
+  },
+
+  "main": "./index.js",
+  "types": "./types/index.d.ts"
+}
